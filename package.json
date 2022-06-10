@@ -1,7 +1,7 @@
 {
   "name": "my_app",
   "version": "0.1.0",
-  "homepage":"https://hussien.github.io.git",
+  "homepage": "https://hussien.github.io.git",
   "private": true,
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
@@ -16,7 +16,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-	"predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
